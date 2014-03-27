@@ -1,0 +1,14 @@
+<div data-role="header">
+  <h1>Chat for iPhone</h1>
+</div>
+<div data-role="content">
+  <form>
+    <div data-role="fieldcontain" id="chat" data-uri="<%= request.host %>:<%= request.port %>/websocket">
+    </div>
+    <div data-role="fieldcontain">
+      <input type="text" id="user_name" placeholder="name" />
+      <input type="text" id="message" placeholder="message" />
+    </div>
+    <input id="send" type="submit" value="Send">
+  </form>
+</div>

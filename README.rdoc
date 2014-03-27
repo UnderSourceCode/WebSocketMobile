@@ -1,0 +1,16 @@
+== README
+
+=== About
+
+WebSocketMobile is a sample chat application.
+It changes pages with PC and iPhone.
+
+=== Environments
+
+* Ruby 2.1.0
+
+* Rails 4.0.2
+
+* jQuery Mobile 1.4.2
+
+* websocket-rails
