@@ -4,18 +4,25 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   layout :set_layout
-  before_filter :set_iphone_format
+  before_filter :set_format
 
-  def set_iphone_format
+  def set_format
     request.format = :iphone if iphone_request?
+    request.format = :android if android_request?
   end
 
   def set_layout
-    iphone_request? ? "iphone" : "application"
+    return "mobile" if (iphone_request? || android_request?)
+    return "application"
   end
 
   private
   def iphone_request?
     request.user_agent =~ /(Mobile.+Safari)/
+  end
+
+  private
+  def android_request?
+    request.user_agent =~ /(Android)/
   end
 end
