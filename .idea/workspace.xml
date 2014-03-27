@@ -15,7 +15,7 @@
     <SUITE FILE_PATH="coverage/WebSocketMobile@Development__WebSocketMobile.coverage" NAME="Development: WebSocketMobile Coverage Results" MODIFIED="1395924600580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="WebSocketMobile" />
     <SUITE FILE_PATH="coverage/WebSocketMobile@RSpec_with_Spork_DRb_server__WebSocketMobile.coverage" NAME="RSpec with Spork DRb server: WebSocketMobile Coverage Results" MODIFIED="1395921347679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="WebSocketMobile" />
     <SUITE FILE_PATH="coverage/WebSocketMobile@Run_spec__chat_controller_spec___WebSocketMobile.coverage" NAME="Run spec 'chat_controller_spec': WebSocketMobile Coverage Results" MODIFIED="1395665716107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="WebSocketMobile" />
-    <SUITE FILE_PATH="coverage/WebSocketMobile@Run_spec__application_controller_spec___WebSocketMobile.coverage" NAME="Run spec 'application_controller_spec': WebSocketMobile Coverage Results" MODIFIED="1395926742268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="WebSocketMobile" />
+    <SUITE FILE_PATH="coverage/WebSocketMobile@Run_spec__application_controller_spec___WebSocketMobile.coverage" NAME="Run spec 'application_controller_spec': WebSocketMobile Coverage Results" MODIFIED="1395930618570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="WebSocketMobile" />
     <SUITE FILE_PATH="coverage/WebSocketMobile@spec__WebSocketMobile.coverage" NAME="spec: WebSocketMobile Coverage Results" MODIFIED="1395919127177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="WebSocketMobile" />
     <SUITE FILE_PATH="coverage/WebSocketMobile@test__WebSocketMobile.coverage" NAME="test: WebSocketMobile Coverage Results" MODIFIED="1395666158643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="WebSocketMobile" />
   </component>
@@ -40,6 +40,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="51" selection-start="119" selection-end="119" vertical-scroll-proportion="0.16968326" vertical-offset="0" max-vertical-offset="442">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.android.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/public/index.android.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mime_types.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mime_types.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/mime_types.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="112" selection-end="250" vertical-scroll-proportion="0.101809956" vertical-offset="0" max-vertical-offset="442">
+            <state line="4" column="0" selection-start="156" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -67,10 +76,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="16" selection-start="2741" selection-end="2741" vertical-scroll-proportion="-8.75" vertical-offset="765" max-vertical-offset="1230">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="16" selection-start="257" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state line="8" column="16" selection-start="0" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -79,7 +97,7 @@
       <file leaf-file-name="application_controller_spec.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/controllers/application_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="14" selection-start="664" selection-end="674" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="885">
+            <state line="34" column="33" selection-start="0" selection-end="1321" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -115,13 +133,13 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/public/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/public/index.iphone.erb" />
-        <option value="$PROJECT_DIR$/README.rdoc" />
         <option value="$PROJECT_DIR$/app/views/layouts/mobile.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/mobile.iphone.erb" />
         <option value="$PROJECT_DIR$/spec/controllers/application_controller_spec.rb" />
         <option value="$PROJECT_DIR$/app/views/public/index.android.erb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/config/initializers/mime_types.rb" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -846,13 +864,6 @@
         <state line="17" column="16" selection-start="724" selection-end="724" vertical-scroll-proportion="0.4722222" vertical-offset="0" max-vertical-offset="540" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.rdoc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jqm_setup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="3" selection-start="107" selection-end="107" vertical-scroll-proportion="0.1863354" vertical-offset="0" max-vertical-offset="322">
@@ -870,13 +881,6 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap_and_overrides.css.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="27" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.6979866" vertical-offset="242" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="16" selection-start="2741" selection-end="2741" vertical-scroll-proportion="1.3684211" vertical-offset="585" max-vertical-offset="1230">
           <folding />
         </state>
       </provider>
@@ -944,23 +948,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/mime_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="156" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="16" selection-start="257" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+        <state line="8" column="16" selection-start="0" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/controllers/application_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="14" selection-start="664" selection-end="674" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="885">
+        <state line="34" column="33" selection-start="0" selection-end="1321" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/mime_types.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="112" selection-end="250" vertical-scroll-proportion="0.101809956" vertical-offset="0" max-vertical-offset="442">
+        <state line="65" column="16" selection-start="2741" selection-end="2741" vertical-scroll-proportion="-8.75" vertical-offset="765" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="51" selection-start="119" selection-end="119" vertical-scroll-proportion="0.16968326" vertical-offset="0" max-vertical-offset="442">
           <folding />
         </state>
       </provider>
